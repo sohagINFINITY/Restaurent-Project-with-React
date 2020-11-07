@@ -34,9 +34,9 @@ class Menu extends Component {
                     <div className="col-6">
                         {menu}
                     </div>
-                </div>
-                <div className="col-6">
-                    {dishDetail}
+                    <div className="col-6">
+                        {dishDetail}
+                    </div>
                 </div>
             </div>
         );
