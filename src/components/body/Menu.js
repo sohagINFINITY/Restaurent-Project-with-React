@@ -30,7 +30,7 @@ class Menu extends Component {
         }
         return (
             <div className="container">
-                <div clasName="row">
+                <div className="row">
                     <div className="col-6">
                         {menu}
                     </div>
